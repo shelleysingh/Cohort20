@@ -1,4 +1,4 @@
-string_example = "I\'am going to\' the shops"
+string_example = "I'am going to the shops"
 
 print(string_example)
 
