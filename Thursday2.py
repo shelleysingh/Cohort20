@@ -18,4 +18,4 @@ else:
     print("Buy more apples")
     print("I love apples")
 
-
+print(apples > 10 and apples < 30)
