@@ -1,3 +1,5 @@
+# tuple
+
 perfect_squares = (1, 4, 9, 16, 16, 16, 25, 36)
 
 print(perfect_squares)

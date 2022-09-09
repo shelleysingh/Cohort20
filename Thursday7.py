@@ -5,7 +5,7 @@ i = 0
 
 while i < len(numbers):
     print(f"This is number {numbers[i]}")
-    i += 2
+    i += 1
 
 print(50 * "_")
 
